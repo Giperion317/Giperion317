@@ -13,6 +13,7 @@
 
 ## My projects
 
+- **[RateShift](https://rateshift.netlify.app/)** ([GitHub](https://github.com/Giperion317/currency-converter)) — built a responsive currency converter using React, TypeScript, and Tailwind CSS; implemented filtering by top and crypto currencies with useMemo and checkboxes, fetched real-time exchange rates via REST API, focused on clean UI/UX and mobile-friendly layout (May 2025 → today)
 - **[MoviesVortex](https://moviesvortex.netlify.app/)** ([GitHub](https://github.com/Giperion317/the-movie-ts)) — creating own pet-project using React JS, TypeScript and Chakra UI, got movie-data from TMDB API using REST API, planning create own API for customers data using Node JS (Aug 2024 → today)
 - **[Wallet](https://wallet-goit-fsv.netlify.app/)** (GitHub: [UI](https://github.com/Sergeyfilatyev/wallet-goit-ui), [API](https://github.com/Sergeyfilatyev/wallet-goit-api)) — team-project, created responsive Frontend with 20+ reusable React JS components, used Redux, edited middlewares in API using Node JS (Apr 2023)
 
